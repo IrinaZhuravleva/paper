@@ -1,0 +1,20 @@
+html,
+body {
+    width: 100vw;
+    height: 100vh;
+    padding: 0;
+    margin: 0;
+}
+
+#map {
+    width: 100vw;
+    height: calc(100vh - 80px);
+    padding: 0;
+    margin: 0;
+}
+
+.title-container {
+    display: flex;
+    text-align: center;
+    align-content: center;
+}

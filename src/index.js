@@ -1,5 +1,6 @@
 import _ from "lodash";
 import {Map} from "./map";
+import './style.css';
 
 function componentTitle() {
     const elementTitle = document.createElement('h1');
